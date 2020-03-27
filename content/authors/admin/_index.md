@@ -24,6 +24,10 @@ interests:
 - Twitter bots
 - Public distrust of technology
 - Dogs
+- Health
+- Sport
+- Anything tech
+- Sharks
 
 education:
   courses:
