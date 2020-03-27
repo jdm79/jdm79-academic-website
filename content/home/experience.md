@@ -25,11 +25,6 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """Reporting on Hackney."""
-  Responsibilities include:
-  
-  * Digital & growth
-  * Analytics
-  * Web development
   """
 
 [[experience]]
