@@ -1,6 +1,6 @@
 ---
 # Display name
-name: James
+name: James Malvern
 
 # Username (this should match the folder name)
 authors:
@@ -22,12 +22,11 @@ bio: My research interests include Twitter bots, public distrust of technology, 
 
 interests:
 - Twitter bots
-- Public distrust of technology
-- Dogs
-- Health
-- Sport
-- Anything tech
-- Sharks
+- Web scraping
+- Python
+- Javascript
+- R
+- Data journalism
 
 education:
   courses:
