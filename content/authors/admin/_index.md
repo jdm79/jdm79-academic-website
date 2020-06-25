@@ -23,10 +23,11 @@ bio: My research interests include Twitter bots, public distrust of technology, 
 interests:
 - Twitter bots
 - Web scraping
+- Data journalism
 - Python
 - Javascript
 - R
-- Data journalism
+  
 
 education:
   courses:
