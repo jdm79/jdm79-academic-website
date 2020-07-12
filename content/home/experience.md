@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://cityjsconf.org/"
   location = "London, UK (Remotely from London and Berlin)"
   date_start = "2020-06"
-  date_end = 
+  date_end = ""
   description = """Helping to organise the five-day virtual conference (which is normally held in person). Liaising with speakers and sponsors, helping to choose an online platform. Managing the Twitter account, interviewing speakers and creating content for the website."""
   
   Responsibilities include:
