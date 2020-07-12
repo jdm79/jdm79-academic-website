@@ -34,19 +34,19 @@ subtitle = ""
   
 [[feature]]
   icon = "js"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "JavaScript"
   description = "Upper-intermediate"
 
 [[feature]]
   icon = "html5"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "HTML"
   description = "Upper-intermediate"
 
 [[feature]]
   icon = "css3"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "CSS"
   description = "Upper-intermediate"
 
