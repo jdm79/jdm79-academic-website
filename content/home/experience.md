@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "London, UK"
   date_start = "2020-01-01"
   date_end = "2020-02-01"
-  description = """Worked as a researcher for the ITV news programmes ***Tonight*** and ***On Assignment***, as well as the ***Harry & Meghan: A Royal Crisis?*** until Covid-19.
+  description = """Worked as a researcher for the ITV news programmes ***Tonight*** and ***On Assignment***, as well as the ***Harry & Meghan: A Royal Crisis?*** documentary, until Covid-19 came along.
   Responsibilities include:
   
   * Researching and fact-checking
