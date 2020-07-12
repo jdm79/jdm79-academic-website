@@ -27,7 +27,7 @@ subtitle = ""
   description = "Intermediate"  
 
 [[feature]]
-  icon = "ruby"
+  icon = "gem"
   icon_pack = "fas"
   name = "Ruby"
   description = "Intermediate"  
