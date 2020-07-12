@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Twitter bots, public distrust of technology, and dogs.
+bio:
 
 interests:
 - Twitter bots
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Hello, world!
+Recent graduate of City of London journalism department - MA (with distinction) in Interactive Journalism. Data journalism, social media management, hacky scripts, web development, web scraping, Twitter bots, and more.
