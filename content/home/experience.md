@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Researcher"
-  company = "ITN News"
+  company = "ITV News"
   company_url = "https://www.itv.com/news"
   location = "London, UK"
   date_start = "2020-01-01"

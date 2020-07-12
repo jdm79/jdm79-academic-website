@@ -18,18 +18,24 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "70%"
+  <!-- description = "70%" -->
   
 [[feature]]
   icon = "python"
   icon_pack = "fas"
   name = "Python"
-  description = "60%"  
+  <!-- description = "60%"   -->
+
+[[feature]]
+  icon = "ruby"
+  icon_pack = "fas"
+  name = "Ruby"
+  <!-- description = "60%"   -->
   
 [[feature]]
   icon = "js"
   icon_pack = "fas"
   name = "JavaScript"
-  description = "70%"
+  <!-- description = "70%" -->
 
 +++
