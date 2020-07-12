@@ -38,4 +38,16 @@ subtitle = ""
   name = "JavaScript"
   description = "Upper-intermediate"
 
+[[feature]]
+  icon = "html5"
+  icon_pack = "fas"
+  name = "HTML"
+  description = "Upper-intermediate"
+
+[[feature]]
+  icon = "css3"
+  icon_pack = "fas"
+  name = "CSS"
+  description = "Upper-intermediate"
+
 +++
