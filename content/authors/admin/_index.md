@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Interactive Journalism MA graduate
+role: Data, words and coding
 
 # Organizations/Affiliations
 organizations:
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Recent graduate of City of London journalism department - MA (with distinction) in Interactive Journalism. Data journalism, social media management, hacky scripts, web development, web scraping, Twitter bots, and more.
+2020 graduate of the City of London journalism department (interactive journalism MA). Data journalism, social media management, hacky scripts, web development, web scraping, Twitter bots, and more.

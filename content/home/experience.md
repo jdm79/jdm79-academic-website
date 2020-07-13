@@ -21,10 +21,10 @@ date_format = "Jan 2006"
   title = "Social Media manager"
   company = "CityJS2020 conference"
   company_url = "https://cityjsconf.org/"
-  location = "London, UK (Remotely from London and Berlin)"
+  location = "(Remotely from London and Berlin)"
   date_start = "2020-06-01"
   date_end = ""
-  description = """Helping to organise the five-day virtual conference (which is normally held in person). Liaising with speakers and sponsors, helping to choose an online platform. Managing the Twitter account, interviewing speakers and creating content for the website.
+  description = """Helping to organise the five-day virtual conference (which is normally held in person in London annually). Liaising with speakers and sponsors, helping to choose an online platform. Managing the Twitter account, interviewing speakers and creating content for the website.
   
   Responsibilities include:
   
