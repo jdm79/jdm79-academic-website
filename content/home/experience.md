@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Social Media manager"
+  title = "Social media manager"
   company = "CityJS2020 conference"
   company_url = "https://cityjsconf.org/"
   location = "(Remotely from London and Berlin)"
@@ -71,5 +71,14 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = ""
   description = """Reporting on everything in the intersection of tech and journalism."""
+
+[[experience]]
+  title = "Staff journalist and assistant editor"
+  company = "Kart Magazine Australia"
+  company_url = ""
+  location = "Perth, Australia"
+  date_start = "2005-10-05"
+  date_end = "2006-10-30"
+  description = """Full-time position writing articles on Australian motorsport for a monthly magazine and its website. Moderating the forum. Interviewing racing drivers and sponsors. Editing other journalists' articles, ghostwriting for the editor."""
 
 +++
