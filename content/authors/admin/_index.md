@@ -14,7 +14,7 @@ role: Data, words and coding
 
 # Organizations/Affiliations
 organizations:
-- name: City University
+- name: Berlin, Germany
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
