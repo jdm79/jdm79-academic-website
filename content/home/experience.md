@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Reporter"
   company = "Hackney Post"
-  company_url = "http://www.hackneypost.com"
+  company_url = "http://www.hackneypost.co.uk"
   location = "London, UK"
   date_start = "2019-09-01"
   date_end = ""
